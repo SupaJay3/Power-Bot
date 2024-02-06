@@ -1,6 +1,6 @@
 # Power-Bot
 
-# Hi! I see you typed my .help! Here are the commands (so far!)
+# Hello there! I see you typed .help! Here are the commands so far!
 
 1) .links
 2) .roast-me
